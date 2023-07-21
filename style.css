@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: violet;
+    color: #fff;
+    text-align: center;
+}
+h1{
+    font-size: 8vw;
+    padding-top: 120px;
+}
